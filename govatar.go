@@ -16,7 +16,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/o1egl/govatar/bindata"
+	"github.com/willeponken/govatar/bindata"
 )
 
 var errUnknownGender = errors.New("Unknown gender")

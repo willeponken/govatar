@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/o1egl/govatar"
 	"github.com/urfave/cli"
+	"github.com/willeponken/govatar"
 )
 
 var version = "dev"
